@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Inline Script</title>
+  <script>
+    // JavaScript code goes here
+    function greet() {
+      alert('Hello, World!');
+    }
+  </script>
+</head>
+<body>
+  <button onclick="greet()">Click Me</button>
+</body>
+</html>
