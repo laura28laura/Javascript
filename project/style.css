@@ -1,0 +1,30 @@
+.body{
+    background-color: blue;
+}
+.container{
+    background-color: white;
+    margin: 0 auto;
+    border:2px solid black;
+    border-radius:10px;
+    width:fit-content;
+
+}
+.icon{
+    width: fit-content;
+    height: fit-content;
+    border-radius: 50%;
+    border: 1px solid black;
+    margin-top:20px;
+    margin: left 20px;background-color: grey;
+
+}
+.star{
+    width:25px;
+    height:25px;
+    border-radius:50%;
+    padding-top:4px;
+    padding-left:4px;
+    padding-bottom: 4px;
+    padding-right: 4px;
+}
+  
